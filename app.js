@@ -7,3 +7,4 @@ module.exports = function createApp(context) {
     template: `<div>访问的URL是：{{ url }}</div>`
   })
 }
+console.log(13)
